@@ -1,0 +1,33 @@
+#roomPageDiv{
+    border: 1px black solid;
+    border-radius: 10px;
+    width: 600px;
+    height: 650px;
+    margin: auto;
+}
+
+#addProductBtn{
+    background-color: rgb(38, 133, 145);
+    box-shadow: #FC0 1px 0 10px;
+    cursor: pointer;
+    border-radius: 60%;
+    width: 100px;
+    margin-bottom: 10px;
+    height: 100px;
+}
+
+#divFooter{
+    position: relative;
+    top: 100px;
+}
+
+#homeBtn{
+    cursor: pointer;
+    position: relative;
+    border-radius: 5px;
+    bottom: 230px;
+    width: 120px;
+    right: 225px;
+}
+
+

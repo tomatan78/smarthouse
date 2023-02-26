@@ -1,0 +1,22 @@
+#selectElement{
+    border-radius: 5px;
+    width: 208px;
+    height: 35px;
+}
+
+#inputElement{
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+}
+
+#chooseRC{
+    font-size: 20px;
+}
+
+#CR{
+    font-size: 35px;
+    text-shadow: #181711 1px 0 10px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(209, 209, 45);
+}
